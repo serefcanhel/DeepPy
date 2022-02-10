@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>indir.png</file>
+    <file>indir.jpg</file>
+    <file>reasons-change-password.jpg</file>
+    <file>images.jpg</file>
+  </qresource>
+</RCC>
